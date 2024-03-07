@@ -1,0 +1,9 @@
+Package: com.mudsplasher.shade
+Name: Shade1.0
+Depends: com.spark.snowboard
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Shade Icon
+Maintainer: mudsplasher
+Author: mudsplasher
+Section: Themes
